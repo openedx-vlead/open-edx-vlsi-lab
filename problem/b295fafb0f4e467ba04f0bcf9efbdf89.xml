@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Identify the correct order in which the nodes are specified in SPICE for a mosfet&lt;&lt;&#10;( ) Gate Source Drain Bulkterminal&#10;(x) Drain Gate Source Bulkterminal&#10;( ) Bulkterinal Source Gate Drain&#10;( ) None of the above">
+<p>Identify the correct order in which the nodes are specified in SPICE for a mosfet</p>
+<multiplechoiceresponse>
+  <choicegroup label="Identify the correct order in which the nodes are specified in SPICE for a mosfet" type="MultipleChoice">
+    <choice correct="false">Gate Source Drain Bulkterminal</choice>
+    <choice correct="true">Drain Gate Source Bulkterminal</choice>
+    <choice correct="false">Bulkterinal Source Gate Drain</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

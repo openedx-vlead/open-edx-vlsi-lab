@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Among the following which of the analysis can neither be printed nor plotted &lt;&lt;&#10;( ) .DC&#10;(x) .NOISE&#10;( ) .TRAN&#10;( ) .AC">
+<p>Among the following which of the analysis can neither be printed nor plotted </p>
+<multiplechoiceresponse>
+  <choicegroup label="Among the following which of the analysis can neither be printed nor plotted " type="MultipleChoice">
+    <choice correct="false">.DC</choice>
+    <choice correct="true">.NOISE</choice>
+    <choice correct="false">.TRAN</choice>
+    <choice correct="false">.AC</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

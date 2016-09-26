@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which statement is false about declaration of capacitor in SPICE&lt;&lt;&#10;( ) the positive node is followed by the negative node in declsration&#10;(x) there is no way to specify intial condition&#10;( ) both of the above&#10;( ) none of the above">
+<p>Which statement is false about declaration of capacitor in SPICE</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which statement is false about declaration of capacitor in SPICE" type="MultipleChoice">
+    <choice correct="false">the positive node is followed by the negative node in declsration</choice>
+    <choice correct="true">there is no way to specify intial condition</choice>
+    <choice correct="false">both of the above</choice>
+    <choice correct="false">none of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;What analysis should be performed to study variation of voltage over time?&lt;&lt;&#10;( ) .op&#10;(x) .tran&#10;( ) .dc&#10;( ) .sens">
+<p>What analysis should be performed to study variation of voltage over time?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What analysis should be performed to study variation of voltage over time?" type="MultipleChoice">
+    <choice correct="false">.op</choice>
+    <choice correct="true">.tran</choice>
+    <choice correct="false">.dc</choice>
+    <choice correct="false">.sens</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

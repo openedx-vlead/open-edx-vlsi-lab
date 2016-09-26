@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which of the following is not a part of the SPICE input file?&lt;&lt;&#10;( ) Data statement&#10;( ) Control statement&#10;( ) Output statement&#10;(x) Behavourial statement">
+<p>Which of the following is not a part of the SPICE input file?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the following is not a part of the SPICE input file?" type="MultipleChoice">
+    <choice correct="false">Data statement</choice>
+    <choice correct="false">Control statement</choice>
+    <choice correct="false">Output statement</choice>
+    <choice correct="true">Behavourial statement</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

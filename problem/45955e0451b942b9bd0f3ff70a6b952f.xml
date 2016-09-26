@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;What is the PC version of spice called?&lt;&lt;&#10;( ) HSPICE&#10;(x) PSPICE&#10;( ) TSPICE&#10;( ) NSPICE">
+<p>What is the PC version of spice called?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the PC version of spice called?" type="MultipleChoice">
+    <choice correct="false">HSPICE</choice>
+    <choice correct="true">PSPICE</choice>
+    <choice correct="false">TSPICE</choice>
+    <choice correct="false">NSPICE</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
