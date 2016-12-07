@@ -1,14 +1,20 @@
 {
     "course/course": {
+        "advertised_start": "Anytime", 
         "cert_html_view_enabled": true, 
+        "course_image": "IIITH-VLSI.jpg", 
         "discussion_topics": {
             "General": {
                 "id": "course"
             }
         }, 
         "display_name": "VLSI", 
+        "instructor_info": {
+            "instructors": []
+        }, 
         "language": "en", 
-        "start": "2030-01-01T00:00:00Z", 
+        "learning_info": [], 
+        "start": "2016-09-29T00:00:00Z", 
         "tabs": [
             {
                 "name": "Home", 
@@ -34,6 +40,12 @@
                 "name": "Progress", 
                 "type": "progress"
             }
-        ]
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
     }
 }
