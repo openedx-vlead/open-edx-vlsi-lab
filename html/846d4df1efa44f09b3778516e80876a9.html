@@ -1,0 +1,87 @@
+<h1 class="text-h2-lightblue">Schematic Design Of Transistor Level NAND &amp; NOR Gate.</h1>
+<p align="justify"></p>
+<p></p>
+<h3>SWITCHING BEHAVIOUR OF TRANSISTOR</h3>
+<p>The gate of the MOS transistor controls the passage of the current between the drain and source.If the voltage at the gate is Vdd ,no current flows between the drain and source of PMOS and same is the case with NMOS if its gate is grounded.This characteristic of MOS transistors,enables it to be viewed as a switch.The switching behaviour of nmos and pmos device is shown in the figure below.Here the input 0 indicates that the gate is grounded and input 1 indicates that Vdd is applied to the gate:</p>
+<p></p>
+<p><img src="http://cse14-iiith.vlabs.ac.in/final-build/vlsi_images/nmos_as_switch.jpg" /><img src="http://cse14-iiith.vlabs.ac.in/final-build/vlsi_images/pmos_as_switch.jpg" /></p>
+<h3>SERIES AND PARALLEL CONNECTION</h3>
+<p>The transistor level schematic of any combinational logic can be obtained by placing two or more n/p-switches in series or parallel.</p>
+<p>If switches are connected in series then the composite switch hence constructed is closed when both the switches are closed.The series connection is shown in the figure below.The table indicates the states of the switch constructed by series connection depending on the inputs A and B</p>
+<p><br /> <img src="http://cse14-iiith.vlabs.ac.in/final-build/vlsi_images/gen_series.jpg" align="left" /></p>
+<p></p>
+<center><b>Series connection of NMOS devices</b><br />
+<table border="1">
+<tbody>
+<tr><th>&nbsp; <sup>B</sup><br /><sub>A</sub></th><th colspan="2">0 &nbsp; 1</th></tr>
+<tr><th rowspan="2">0<br />1</th>
+<td>OFF</td>
+<td>OFF</td>
+</tr>
+<tr>
+<td>OFF</td>
+<td>ON</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p></p>
+<center><b>Series connection of PMOS devices</b><br />
+<table border="1">
+<tbody>
+<tr><th>&nbsp; <sup>B</sup><br /><sub>A</sub></th><th colspan="2">0 &nbsp; 1</th></tr>
+<tr><th rowspan="2">0<br />1</th>
+<td>ON</td>
+<td>OFF</td>
+</tr>
+<tr>
+<td>OFF</td>
+<td>OFF</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p><br /><br /></p>
+<p>If the switches are connected in parallel then the composite switch hence constructed is closed when either or both of the switches are closed.The parallel connection is shown in the figure below.The table indicates the states of the switch obtained by parallel connection depending on the inputs A and B</p>
+<p><img src="http://cse14-iiith.vlabs.ac.in/final-build/vlsi_images/gen_parallel.jpg" align="left" /></p>
+<center><b>Parallel connection of NMOS devices</b><br />
+<table border="1">
+<tbody>
+<tr><th>&nbsp; <sup>B</sup><br /><sub>A</sub></th><th colspan="2">0 &nbsp; 1</th></tr>
+<tr><th rowspan="2">0<br />1</th>
+<td>OFF</td>
+<td>ON</td>
+</tr>
+<tr>
+<td>ON</td>
+<td>ON</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p></p>
+<center><b>Parallel connection of PMOS devices</b><br />
+<table border="1">
+<tbody>
+<tr><th>&nbsp; <sup>B</sup><br /><sub>A</sub></th><th colspan="2">0 &nbsp; 1</th></tr>
+<tr><th rowspan="2">0<br />1</th>
+<td>ON</td>
+<td>ON</td>
+</tr>
+<tr>
+<td>ON</td>
+<td>OFF</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p></p>
+<p>By using any combinations of the above constructions,CMOS combinational gates can be obtained.In the following section ,Karnaugh maps for NAND and NOR have been used to determine the required combination</p>
+<p></p>
+<h3>K-MAP FOR NAND</h3>
+<p><br /> <img src="http://cse14-iiith.vlabs.ac.in/final-build/vlsi_images/theory_nand.jpg" /></p>
+<p>Thus for NAND gate PMOS devices are connected in parallel between Vdd and output node,whereas the NMOS devices are in series between output node and ground.</p>
+<p></p>
+<h3>K-MAP FOR NOR</h3>
+<p><br /> <img src="http://cse14-iiith.vlabs.ac.in/final-build/vlsi_images/theory_nor.jpg" /></p>
+<p>Thus for NOR gate PMOS devices are connected in series between Vdd and output node,whereas the NMOS devices are in parallel between output node and ground.</p>
