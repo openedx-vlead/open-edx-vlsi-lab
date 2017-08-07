@@ -1,0 +1,33 @@
+<problem display_name="Multiple Choice" markdown="Can you distinguish between AND and XNOR gate when both the inputs are 1?&#10;(x) NO&#10;()  YES&#10;()  MAY or MAY NOT&#10;()  none of the above&#10;&#10;What will be the minimum number of transistor required for designing xy+xz+zy+xy+z&#10;()  6&#10;()  4&#10;()  3&#10;(x) 2&#10;&#10;Reduce the expression xy(z+w)+y(xz+xz)+zw and tell the min number of transistor required for the design.&#10;(x) 8&#10;()  6&#10;()  11&#10;()  12&#10;&#10;">
+<p>Can you distinguish between AND and XNOR gate when both the inputs are 1?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">NO</choice>
+    <choice correct="false">YES</choice>
+    <choice correct="false">MAY or MAY NOT</choice>
+    <choice correct="false">none of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>What will be the minimum number of transistor required for designing xy+xz+zy+xy+z</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">6</choice>
+    <choice correct="false">4</choice>
+    <choice correct="false">3</choice>
+    <choice correct="true">2</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Reduce the expression xy(z+w)+y(xz+xz)+zw and tell the min number of transistor required for the design.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">8</choice>
+    <choice correct="false">6</choice>
+    <choice correct="false">11</choice>
+    <choice correct="false">12</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

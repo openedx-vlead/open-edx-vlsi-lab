@@ -1,0 +1,74 @@
+<problem display_name="Multiple Choice" markdown="What frequency clock source will produce clock waveforms having a period equal to 5 us (5 microseconds)?&#10;()  5 MHz&#10;(x) 0.2 MHz&#10;()  2 MHz&#10;()  10 MHz&#10;    &#10;On what parameters do the output of D flip flop depend?&#10;()  independent of both previous state and input&#10;()  both on previous state and input&#10;()  only on the previous state&#10;(x) only on input D&#10;&#10;Which statement is false about D latch&#10;()  the output follows the input everytime&#10;(x) the output follows the input when clock is high&#10;()  the output follows the input when the clock is low&#10;()  the output never follows the input&#10;&#10;&#10;Which latch has the property of either retaining or toggling the previous value&#10;()  D-Latch&#10;(x) T-Latch&#10;()  SR-Latch&#10;()  None of the above&#10;&#10;&#10;Which statement below is the apt definition of flip flop&#10;()  latch&#10;()  coupled latch&#10;()  de-coupled latch&#10;(x) clocked latch&#10;&#10;What kind of flip flop is generally preffered for constructing counters?&#10;()  JK-flip flop&#10;(x) T flip flop&#10;()  D flip flop&#10;()  none of the above&#10;&#10;What is meant by the problem of metastability in flip flop&#10;(x) The data and the control input changes at the instant of clock pulse&#10;()  The data and the control input does not change at all&#10;()  The clock input does not change at all&#10;()  None of the above     ">
+<p>What frequency clock source will produce clock waveforms having a period equal to 5 us (5 microseconds)?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">5 MHz</choice>
+    <choice correct="true">0.2 MHz</choice>
+    <choice correct="false">2 MHz</choice>
+    <choice correct="false">10 MHz</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    </p>
+<p>On what parameters do the output of D flip flop depend?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">independent of both previous state and input</choice>
+    <choice correct="false">both on previous state and input</choice>
+    <choice correct="false">only on the previous state</choice>
+    <choice correct="true">only on input D</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Which statement is false about D latch</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">the output follows the input everytime</choice>
+    <choice correct="true">the output follows the input when clock is high</choice>
+    <choice correct="false">the output follows the input when the clock is low</choice>
+    <choice correct="false">the output never follows the input</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Which latch has the property of either retaining or toggling the previous value</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">D-Latch</choice>
+    <choice correct="true">T-Latch</choice>
+    <choice correct="false">SR-Latch</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Which statement below is the apt definition of flip flop</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">latch</choice>
+    <choice correct="false">coupled latch</choice>
+    <choice correct="false">de-coupled latch</choice>
+    <choice correct="true">clocked latch</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>What kind of flip flop is generally preffered for constructing counters?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">JK-flip flop</choice>
+    <choice correct="true">T flip flop</choice>
+    <choice correct="false">D flip flop</choice>
+    <choice correct="false">none of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>What is meant by the problem of metastability in flip flop</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">The data and the control input changes at the instant of clock pulse</choice>
+    <choice correct="false">The data and the control input does not change at all</choice>
+    <choice correct="false">The clock input does not change at all</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

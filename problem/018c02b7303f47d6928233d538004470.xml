@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="How do we represent with n-devices?&#10;() series connection of n-devices with input A and input B&#10;(x) parallel connection of p-devices with input A and input B&#10;() combination of series and parallel connecton of n-devices&#10;() none&#10;&#10;">
+<p>How do we represent with n-devices?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">series connection of n-devices with input A and input B</choice>
+    <choice correct="true">parallel connection of p-devices with input A and input B</choice>
+    <choice correct="false">combination of series and parallel connecton of n-devices</choice>
+    <choice correct="false">none</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

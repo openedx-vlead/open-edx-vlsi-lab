@@ -1,0 +1,97 @@
+<problem display_name="Multiple Choice" markdown=" What is the minimum width, minimum spacing rule of same potential and different potential Well ?&#10;()  10,9 and 10,6.&#10;(x) 10,6 and 10,9.&#10;()  10,10 and 9,6.&#10;()  10,9 and 10,9.&#10;&#10;&#10;Transistor gate form when two layers overlap. These two layers are -&#10;()  Polysilicon and Select.&#10;()  Polysilicon and Contact.&#10;()  Polysilicon and Metal.&#10;(x) Polysilicon and Active.&#10;&#10; The layout design rules are usually described by -&#10;()  Separation rule.&#10;()  Distance Rule.&#10;(x) Micron rule and Design Rule.&#10;()  Micron Rule.&#10;&#10;&#10;Lambda is known as -&#10;()  sepaparation of layers.&#10;(x) minimum feature size.&#10;()  distance of pixel.&#10;()  all of these.&#10;&#10;&#10;The Length and width of a transistor are two most important dimensions of transistors that depend on -&#10;()  drain dimentions.&#10;(x) gate dimention.&#10;()  bulk dimention.&#10;()  source dimention.&#10;&#10;&#10;Which of these are wrong option regarding design rule -&#10;a. Width rule&#10;b. space rule&#10;c. Overlap rule&#10;d. pixel rule.&#10;&#10;()  a, b, c, and d.&#10;()  b and d.&#10;()  a and b.&#10;(x) a, b, and c.&#10;&#10;&#10;Minimum spacing rule of metal layer is -&#10;()  3 mm.&#10;(x) 3 lamada.&#10;()  6 lamada.&#10;()  10 lamada.&#10;&#10;&#10;DRC means -&#10;()  Direct Rule Check.&#10;(x) Design Rule Check.&#10;()  Design Right Check.&#10;()  Direct Right Check.&#10;&#10;&#10;Overlapping is allowed in layers :&#10;(x) Poly and Metal.&#10;()  Metal 1 and Metal 2.&#10;()  Active and Poly.&#10;()  All Of These.">
+<p> What is the minimum width, minimum spacing rule of same potential and different potential Well ?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">10,9 and 10,6.</choice>
+    <choice correct="true">10,6 and 10,9.</choice>
+    <choice correct="false">10,10 and 9,6.</choice>
+    <choice correct="false">10,9 and 10,9.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Transistor gate form when two layers overlap. These two layers are -</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Polysilicon and Select.</choice>
+    <choice correct="false">Polysilicon and Contact.</choice>
+    <choice correct="false">Polysilicon and Metal.</choice>
+    <choice correct="true">Polysilicon and Active.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> The layout design rules are usually described by -</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Separation rule.</choice>
+    <choice correct="false">Distance Rule.</choice>
+    <choice correct="true">Micron rule and Design Rule.</choice>
+    <choice correct="false">Micron Rule.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Lambda is known as -</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">sepaparation of layers.</choice>
+    <choice correct="true">minimum feature size.</choice>
+    <choice correct="false">distance of pixel.</choice>
+    <choice correct="false">all of these.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>The Length and width of a transistor are two most important dimensions of transistors that depend on -</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">drain dimentions.</choice>
+    <choice correct="true">gate dimention.</choice>
+    <choice correct="false">bulk dimention.</choice>
+    <choice correct="false">source dimention.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Which of these are wrong option regarding design rule -</p>
+<p>a. Width rule</p>
+<p>b. space rule</p>
+<p>c. Overlap rule</p>
+<p>d. pixel rule.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">a, b, c, and d.</choice>
+    <choice correct="false">b and d.</choice>
+    <choice correct="false">a and b.</choice>
+    <choice correct="true">a, b, and c.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Minimum spacing rule of metal layer is -</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">3 mm.</choice>
+    <choice correct="true">3 lamada.</choice>
+    <choice correct="false">6 lamada.</choice>
+    <choice correct="false">10 lamada.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>DRC means -</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Direct Rule Check.</choice>
+    <choice correct="true">Design Rule Check.</choice>
+    <choice correct="false">Design Right Check.</choice>
+    <choice correct="false">Direct Right Check.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Overlapping is allowed in layers :</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Poly and Metal.</choice>
+    <choice correct="false">Metal 1 and Metal 2.</choice>
+    <choice correct="false">Active and Poly.</choice>
+    <choice correct="false">All Of These.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
