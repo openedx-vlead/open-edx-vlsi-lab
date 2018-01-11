@@ -3,7 +3,7 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CSE14", 
+            "course": "cse14", 
             "name": "IIITH-VLSI.jpg", 
             "org": "IIIT-Hyderabad", 
             "revision": null, 
@@ -11,13 +11,13 @@
             "tag": "c4x"
         }, 
         "displayname": "IIITH-VLSI.jpg", 
-        "filename": "asset-v1:IIIT-Hyderabad+CSE14+Anytime+type@asset+block@IIITH-VLSI.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+cse14+Anytime+type@asset+block@IIITH-VLSI.jpg", 
         "import_path": "IIITH-VLSI.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "IIIT-Hyderabad", 
-            "CSE14", 
+            "cse14", 
             "thumbnail", 
             "IIITH-VLSI.jpg", 
             null
