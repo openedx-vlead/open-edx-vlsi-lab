@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="Identify the correct statement from the following.&#10;()  PMOS passes from source to drain when logic 1 is applied to gate.&#10;(x) NMOS passes from source to drain when logic 1 is applied to gate&#10;()  PMOS always passes from source to drain whatever be the gate input&#10;()  NMOS always passes from source to drain whatever be the gate input&#10;&#10;What can be designed using pass transistors?&#10;()  Any combinational logic&#10;()  Multiplexer&#10;(x) Both&#10;()  None&#10;&#10;Will n pass transistor and complementary pass transistor behave similarly for passing one?&#10;()  No&#10;(x) Yes&#10;()  May be in some situations&#10;()  can not say&#10;&#10;_______ input mux can be formed using n select lines.&#10;()  n&#10;()  2*n&#10;(x) 2n&#10;() None of the above&#10;&#10;Which gives good zero&#10;()  Nmos Pass transistor&#10;(x) Both pmos and complementary pass transistor&#10;()  Pmos pass transistor&#10;()  None of the above">
-<p>Identify the correct statement from the following.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">PMOS passes from source to drain when logic 1 is applied to gate.</choice>
-    <choice correct="true">NMOS passes from source to drain when logic 1 is applied to gate</choice>
-    <choice correct="false">PMOS always passes from source to drain whatever be the gate input</choice>
-    <choice correct="false">NMOS always passes from source to drain whatever be the gate input</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>What can be designed using pass transistors?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Any combinational logic</choice>
-    <choice correct="false">Multiplexer</choice>
-    <choice correct="true">Both</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Will n pass transistor and complementary pass transistor behave similarly for passing one?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">No</choice>
-    <choice correct="true">Yes</choice>
-    <choice correct="false">May be in some situations</choice>
-    <choice correct="false">can not say</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>_______ input mux can be formed using n select lines.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">n</choice>
-    <choice correct="false">2*n</choice>
-    <choice correct="true">2n</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Which gives good zero</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Nmos Pass transistor</choice>
-    <choice correct="true">Both pmos and complementary pass transistor</choice>
-    <choice correct="false">Pmos pass transistor</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Identify the correct statement from the following.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">PMOS passes from source to drain when logic 1 is applied to gate.</choice>
+      <choice correct="true">NMOS passes from source to drain when logic 1 is applied to gate</choice>
+      <choice correct="false">PMOS always passes from source to drain whatever be the gate input</choice>
+      <choice correct="false">NMOS always passes from source to drain whatever be the gate input</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>What can be designed using pass transistors?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Any combinational logic</choice>
+      <choice correct="false">Multiplexer</choice>
+      <choice correct="true">Both</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Will n pass transistor and complementary pass transistor behave similarly for passing one?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">No</choice>
+      <choice correct="true">Yes</choice>
+      <choice correct="false">May be in some situations</choice>
+      <choice correct="false">can not say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>_______ input mux can be formed using n select lines.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">n</choice>
+      <choice correct="false">2*n</choice>
+      <choice correct="true">2n</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Which gives good zero</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Nmos Pass transistor</choice>
+      <choice correct="true">Both pmos and complementary pass transistor</choice>
+      <choice correct="false">Pmos pass transistor</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

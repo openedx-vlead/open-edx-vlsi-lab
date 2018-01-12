@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;The number of inputs in an inverter is ____.&lt;&lt;&#10;(x) 1&#10;()  2 &#10;()  3&#10;()  4&#10;&#10;&gt;&gt;Identify which statement is true for inverter?&lt;&lt;&#10;()  Any difference in inputs gurantees a high output&#10;()  Any difference in inputs gurantees a low output&#10;()  A high input gives a high output&#10;(x) A low input gives a high output&#10;&#10;&gt;&gt;What are the operation states of n-device and p-device respectively in region B?&lt;&lt;&#10;()  linear and unsaturated&#10;()  cut-off and linear&#10;()  linear and saturated&#10;(x) saturated and linear&#10;&#10;&gt;&gt;What is desirable βn/βp ratio for an inverter?&lt;&lt;&#10;()  0&#10;(x) 1&#10;()  0.5&#10;()  ∞&#10;&#10;&gt;&gt;What is delay?&lt;&lt;&#10;()  maximum of rise time and fall time&#10;()  product of rise time and fall time&#10;(x) average of rise time and fall time&#10;()  addition of rise time and fall time">
-<p>The number of inputs in an inverter is ____.</p>
-<multiplechoiceresponse>
-  <choicegroup label="The number of inputs in an inverter is ____." type="MultipleChoice">
-    <choice correct="true">1</choice>
-    <choice correct="false">2</choice>
-    <choice correct="false">3</choice>
-    <choice correct="false">4</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Identify which statement is true for inverter?</p>
-<multiplechoiceresponse>
-  <choicegroup label="Identify which statement is true for inverter?" type="MultipleChoice">
-    <choice correct="false">Any difference in inputs gurantees a high output</choice>
-    <choice correct="false">Any difference in inputs gurantees a low output</choice>
-    <choice correct="false">A high input gives a high output</choice>
-    <choice correct="true">A low input gives a high output</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>What are the operation states of n-device and p-device respectively in region B?</p>
-<multiplechoiceresponse>
-  <choicegroup label="What are the operation states of n-device and p-device respectively in region B?" type="MultipleChoice">
-    <choice correct="false">linear and unsaturated</choice>
-    <choice correct="false">cut-off and linear</choice>
-    <choice correct="false">linear and saturated</choice>
-    <choice correct="true">saturated and linear</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>What is desirable βn/βp ratio for an inverter?</p>
-<multiplechoiceresponse>
-  <choicegroup label="What is desirable βn/βp ratio for an inverter?" type="MultipleChoice">
-    <choice correct="false">0</choice>
-    <choice correct="true">1</choice>
-    <choice correct="false">0.5</choice>
-    <choice correct="false">∞</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>What is delay?</p>
-<multiplechoiceresponse>
-  <choicegroup label="What is delay?" type="MultipleChoice">
-    <choice correct="false">maximum of rise time and fall time</choice>
-    <choice correct="false">product of rise time and fall time</choice>
-    <choice correct="true">average of rise time and fall time</choice>
-    <choice correct="false">addition of rise time and fall time</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The number of inputs in an inverter is ____.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The number of inputs in an inverter is ____." type="MultipleChoice">
+      <choice correct="true">1</choice>
+      <choice correct="false">2</choice>
+      <choice correct="false">3</choice>
+      <choice correct="false">4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Identify which statement is true for inverter?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Identify which statement is true for inverter?" type="MultipleChoice">
+      <choice correct="false">Any difference in inputs gurantees a high output</choice>
+      <choice correct="false">Any difference in inputs gurantees a low output</choice>
+      <choice correct="false">A high input gives a high output</choice>
+      <choice correct="true">A low input gives a high output</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>What are the operation states of n-device and p-device respectively in region B?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What are the operation states of n-device and p-device respectively in region B?" type="MultipleChoice">
+      <choice correct="false">linear and unsaturated</choice>
+      <choice correct="false">cut-off and linear</choice>
+      <choice correct="false">linear and saturated</choice>
+      <choice correct="true">saturated and linear</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>What is desirable βn/βp ratio for an inverter?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is desirable βn/βp ratio for an inverter?" type="MultipleChoice">
+      <choice correct="false">0</choice>
+      <choice correct="true">1</choice>
+      <choice correct="false">0.5</choice>
+      <choice correct="false">∞</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>What is delay?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is delay?" type="MultipleChoice">
+      <choice correct="false">maximum of rise time and fall time</choice>
+      <choice correct="false">product of rise time and fall time</choice>
+      <choice correct="true">average of rise time and fall time</choice>
+      <choice correct="false">addition of rise time and fall time</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

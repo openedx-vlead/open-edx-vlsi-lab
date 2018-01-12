@@ -1,66 +1,58 @@
 <problem display_name="Multiple Choice" markdown="Post_Quiz&#10;&#10;    Does the order of input and output ports in the argument of module matters?&#10;    ()  yes&#10;    (x) no&#10;    ()  may matter in some situation&#10;    ()  may not matter in certain conditions&#10;&#10;&#10;    Which of the following loops are supported by verilog?&#10;    ()  if-else loop&#10;    ()  for loop&#10;    ()  while loop&#10;    (x) all of these&#10;&#10;&#10;    What defines the beginning and end of a loop&#10;    (x) begin----end&#10;    ()  curly brackets ()&#10;    ()  none of these&#10;    ()  both of them&#10;&#10;&#10;    What defines high impedance state or floating state in verilog?&#10;    ()  1&#10;    ()  X&#10;    (x) Z&#10;    ()  Both X and Z&#10;    &#10;    What is the similar system task in verilog as printf in C?&#10;()  $monitor&#10;(x) $display&#10;()  $print&#10;()  all of these&#10;&#10;&#10;Can we include one source file in another in verilog?&#10;()  no&#10;(x) yes using `include&#10;()  yes using `define&#10;()  yes by just writing the name of file in another file&#10;">
-<p>Post_Quiz</p>
-
-<p>    Does the order of input and output ports in the argument of module matters?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">yes</choice>
-    <choice correct="true">no</choice>
-    <choice correct="false">may matter in some situation</choice>
-    <choice correct="false">may not matter in certain conditions</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>    Which of the following loops are supported by verilog?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">if-else loop</choice>
-    <choice correct="false">for loop</choice>
-    <choice correct="false">while loop</choice>
-    <choice correct="true">all of these</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>    What defines the beginning and end of a loop</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">begin----end</choice>
-    <choice correct="false">curly brackets ()</choice>
-    <choice correct="false">none of these</choice>
-    <choice correct="false">both of them</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>    What defines high impedance state or floating state in verilog?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">1</choice>
-    <choice correct="false">X</choice>
-    <choice correct="true">Z</choice>
-    <choice correct="false">Both X and Z</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>    </p>
-<p>    What is the similar system task in verilog as printf in C?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">$monitor</choice>
-    <choice correct="true">$display</choice>
-    <choice correct="false">$print</choice>
-    <choice correct="false">all of these</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Can we include one source file in another in verilog?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">no</choice>
-    <choice correct="true">yes using `include</choice>
-    <choice correct="false">yes using `define</choice>
-    <choice correct="false">yes by just writing the name of file in another file</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Post_Quiz</p>
+  <p>    Does the order of input and output ports in the argument of module matters?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">yes</choice>
+      <choice correct="true">no</choice>
+      <choice correct="false">may matter in some situation</choice>
+      <choice correct="false">may not matter in certain conditions</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    Which of the following loops are supported by verilog?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">if-else loop</choice>
+      <choice correct="false">for loop</choice>
+      <choice correct="false">while loop</choice>
+      <choice correct="true">all of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    What defines the beginning and end of a loop</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">begin----end</choice>
+      <choice correct="false">curly brackets ()</choice>
+      <choice correct="false">none of these</choice>
+      <choice correct="false">both of them</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    What defines high impedance state or floating state in verilog?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="false">X</choice>
+      <choice correct="true">Z</choice>
+      <choice correct="false">Both X and Z</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>    What is the similar system task in verilog as printf in C?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">$monitor</choice>
+      <choice correct="true">$display</choice>
+      <choice correct="false">$print</choice>
+      <choice correct="false">all of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Can we include one source file in another in verilog?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">no</choice>
+      <choice correct="true">yes using `include</choice>
+      <choice correct="false">yes using `define</choice>
+      <choice correct="false">yes by just writing the name of file in another file</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

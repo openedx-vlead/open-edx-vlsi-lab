@@ -1,93 +1,83 @@
 <problem display_name="Multiple Choice" markdown="Can we reduce delay to zero?&#10;()  Yes&#10;(x) No&#10;()  Yes in most of the cases&#10;()  Yes in very few cases&#10;&#10;What you mean by delay?&#10;()  time to correctly access the input&#10;()  time to correctly access the output&#10;()  average rise time and fall time&#10;(x) time taken for the output to come after the input has been captured&#10;&#10;The optimum size of each inverter is ________ of its neighbours&#10;(x) geometric mean&#10;()  arithmetic mean&#10;()  geometric or arithmetic mean&#10;()  none of the above&#10;&#10;If the gate size is increased by n then what will be the effect on its resistance?&#10;()  increases by n&#10;(x) decreases by n&#10;()  decreases by n2&#10;()  remains constant&#10;&#10;If the gate size is increased by n then what will be the effect on its capacitance?&#10;()  increases by n2&#10;(x) increases by n&#10;()  decreases by n&#10;()  remains constant&#10;&#10;Choose the correct statement from the following.&#10;()  All the inverters in series are kept to be of same size for minimum delay&#10;()  The inverter size does not matter as long as the inverter driving the load has very big size&#10;()  The inverter size does not matter as long as the inverter driving the load has very small size&#10;(x) The size of the inverter driving the load is maximum of all and is some multiple of size of the previous inverters&#10;For minimum delay, what is the no of inverters in the chain connected in series?&#10;()  4&#10;()  5&#10;()  6&#10;(x) need to calculate according to the situation given, it is not fixed.&#10;&#10;Let a be the stage ratio of an inverter chain. What is its optimum value to drive a load capacitor with minimum delay?&#10;()  4&#10;()  1/e&#10;()  2&#10;(x) e&#10;&#10;In the above question, if parasitic capacitances are taken into consideration then what is the optimum value of a?&#10;(x) 4&#10;()  e&#10;()  1/e&#10;()  2&#10;">
-<p>Can we reduce delay to zero?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Yes</choice>
-    <choice correct="true">No</choice>
-    <choice correct="false">Yes in most of the cases</choice>
-    <choice correct="false">Yes in very few cases</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>What you mean by delay?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">time to correctly access the input</choice>
-    <choice correct="false">time to correctly access the output</choice>
-    <choice correct="false">average rise time and fall time</choice>
-    <choice correct="true">time taken for the output to come after the input has been captured</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The optimum size of each inverter is ________ of its neighbours</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">geometric mean</choice>
-    <choice correct="false">arithmetic mean</choice>
-    <choice correct="false">geometric or arithmetic mean</choice>
-    <choice correct="false">none of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>If the gate size is increased by n then what will be the effect on its resistance?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">increases by n</choice>
-    <choice correct="true">decreases by n</choice>
-    <choice correct="false">decreases by n2</choice>
-    <choice correct="false">remains constant</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>If the gate size is increased by n then what will be the effect on its capacitance?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">increases by n2</choice>
-    <choice correct="true">increases by n</choice>
-    <choice correct="false">decreases by n</choice>
-    <choice correct="false">remains constant</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Choose the correct statement from the following.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">All the inverters in series are kept to be of same size for minimum delay</choice>
-    <choice correct="false">The inverter size does not matter as long as the inverter driving the load has very big size</choice>
-    <choice correct="false">The inverter size does not matter as long as the inverter driving the load has very small size</choice>
-    <choice correct="true">The size of the inverter driving the load is maximum of all and is some multiple of size of the previous inverters</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>For minimum delay, what is the no of inverters in the chain connected in series?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">4</choice>
-    <choice correct="false">5</choice>
-    <choice correct="false">6</choice>
-    <choice correct="true">need to calculate according to the situation given, it is not fixed.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Let a be the stage ratio of an inverter chain. What is its optimum value to drive a load capacitor with minimum delay?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">4</choice>
-    <choice correct="false">1/e</choice>
-    <choice correct="false">2</choice>
-    <choice correct="true">e</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In the above question, if parasitic capacitances are taken into consideration then what is the optimum value of a?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">4</choice>
-    <choice correct="false">e</choice>
-    <choice correct="false">1/e</choice>
-    <choice correct="false">2</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Can we reduce delay to zero?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Yes</choice>
+      <choice correct="true">No</choice>
+      <choice correct="false">Yes in most of the cases</choice>
+      <choice correct="false">Yes in very few cases</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>What you mean by delay?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">time to correctly access the input</choice>
+      <choice correct="false">time to correctly access the output</choice>
+      <choice correct="false">average rise time and fall time</choice>
+      <choice correct="true">time taken for the output to come after the input has been captured</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The optimum size of each inverter is ________ of its neighbours</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">geometric mean</choice>
+      <choice correct="false">arithmetic mean</choice>
+      <choice correct="false">geometric or arithmetic mean</choice>
+      <choice correct="false">none of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>If the gate size is increased by n then what will be the effect on its resistance?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">increases by n</choice>
+      <choice correct="true">decreases by n</choice>
+      <choice correct="false">decreases by n2</choice>
+      <choice correct="false">remains constant</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>If the gate size is increased by n then what will be the effect on its capacitance?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">increases by n2</choice>
+      <choice correct="true">increases by n</choice>
+      <choice correct="false">decreases by n</choice>
+      <choice correct="false">remains constant</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Choose the correct statement from the following.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">All the inverters in series are kept to be of same size for minimum delay</choice>
+      <choice correct="false">The inverter size does not matter as long as the inverter driving the load has very big size</choice>
+      <choice correct="false">The inverter size does not matter as long as the inverter driving the load has very small size</choice>
+      <choice correct="true">The size of the inverter driving the load is maximum of all and is some multiple of size of the previous inverters</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>For minimum delay, what is the no of inverters in the chain connected in series?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">4</choice>
+      <choice correct="false">5</choice>
+      <choice correct="false">6</choice>
+      <choice correct="true">need to calculate according to the situation given, it is not fixed.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Let a be the stage ratio of an inverter chain. What is its optimum value to drive a load capacitor with minimum delay?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">4</choice>
+      <choice correct="false">1/e</choice>
+      <choice correct="false">2</choice>
+      <choice correct="true">e</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In the above question, if parasitic capacitances are taken into consideration then what is the optimum value of a?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">4</choice>
+      <choice correct="false">e</choice>
+      <choice correct="false">1/e</choice>
+      <choice correct="false">2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
