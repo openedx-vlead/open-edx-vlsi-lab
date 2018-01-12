@@ -11,12 +11,18 @@
             "tag": "c4x"
         }, 
         "displayname": "IIITH-VLSI.jpg", 
+
         "filename": "asset-v1:Virtual-Labs+cse14+Anytime+type@asset+block@IIITH-VLSI.jpg", 
+
+        "filename": "asset-v1:IIIT-Hyderabad+cse14+Anytime+type@asset+block@IIITH-VLSI.jpg", 
+
         "import_path": "IIITH-VLSI.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
+
             "Virtual-Labs", 
+            "IIIT-Hyderabad", 
             "cse14", 
             "thumbnail", 
             "IIITH-VLSI.jpg", 
